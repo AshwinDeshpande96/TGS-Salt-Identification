@@ -3,9 +3,9 @@ kaggle challenge solution for [TGS Salt Identification Challenge](https://www.ka
 <p align='center'>
   <img src='https://github.com/AshwinDeshpande96/TGS-Salt-Identification/blob/master/tgs_poster.jpeg'/>
   </p>
-
-[Code](https://github.com/AshwinDeshpande96/TGS-Salt-Identification/blob/master/tgs_salt_identification.ipynb)
-
+<p align='center'>
+  [Code](https://github.com/AshwinDeshpande96/TGS-Salt-Identification/blob/master/tgs_salt_identification.ipynb)
+  </p>
 <p align='center'>
   <img src='https://github.com/AshwinDeshpande96/TGS-Salt-Identification/blob/master/conc_depth.png'/>
   </p>
