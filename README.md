@@ -4,7 +4,8 @@ kaggle challenge solution for [TGS Salt Identification Challenge](https://www.ka
   <img src='https://github.com/AshwinDeshpande96/TGS-Salt-Identification/blob/master/tgs_poster.jpeg'/>
   </p>
 <p align='center'>
-  [Code](https://github.com/AshwinDeshpande96/TGS-Salt-Identification/blob/master/tgs_salt_identification.ipynb)
+  <a href="https://github.com/AshwinDeshpande96/TGS-Salt-Identification/blob/master/tgs_salt_identification.ipynb">Jupyter Notebook</a>
+  
   </p>
 <p align='center'>
   <img src='https://github.com/AshwinDeshpande96/TGS-Salt-Identification/blob/master/conc_depth.png'/>
