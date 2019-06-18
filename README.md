@@ -7,7 +7,7 @@ kaggle challenge solution for [TGS Salt Identification Challenge](https://www.ka
 [Code](https://github.com/AshwinDeshpande96/TGS-Salt-Identification/blob/master/tgs_salt_identification.ipynb)
 
 <p align='center'>
-  <img src=https://github.com/AshwinDeshpande96/TGS-Salt-Identification/blob/master/conc_depth.png'/>
+  <img src='https://github.com/AshwinDeshpande96/TGS-Salt-Identification/blob/master/conc_depth.png'/>
   </p>
   
 <p align='center'>
